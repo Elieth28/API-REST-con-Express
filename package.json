@@ -1,0 +1,22 @@
+{
+  "name": "student-api",
+  "version": "1.0.0",
+  "description": "API REST para la administración de estudiantes (datos quemados en memoria) usando Node.js y Express.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "api",
+    "rest",
+    "students"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
